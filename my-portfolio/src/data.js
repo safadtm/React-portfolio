@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Bus Reservation",
+    subtitle: "Flutter",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "The app allows users to search for bus routes, select schedules, choose seats, and submit reservations. It also includes an admin panel for managing buses, routes, and schedules.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/safadtm/bus_reservation_flutter",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "ToDo",
+    subtitle: "Flutter",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "The todo app is a simple yet powerful task management application designed to help users organize their daily activities. With an intuitive user interface, it allows for effortless task creation, prioritization, and completion tracking, ensuring users stay on top of their schedules.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/safadtm/TODO_FLUTTER",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "SillyStory",
+    subtitle: "Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Press Generate random story for a new silly tale every time. Personalize it by entering your custom name, and spice things up with a touch of British charm by choosing the UK radio button. Get ready for giggles with each click!",
+    image: "./project3.jpg",
+    link: "https://safadtm.github.io/Sillystory/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Kerala Blasters",
+    subtitle: "HTML and CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Official website dedicated to my favorite Indian Super League (ISL) team, Kerala Blasters. This website is a tribute to the passionate and dedicated fans of Kerala Blasters and a platform to celebrate our beloved team's journey.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://keralablasters-fc.web.app/",
   },
 ];
 
